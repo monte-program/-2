@@ -20,7 +20,7 @@ document.querySelector(".btB").onclick= function(){
     }
     document.querySelector(".inB").value=pl 
     letters=[]
-    attemp = 5
+    attemp = 10
     document.querySelector("span").innerHTML= attemp
 }
 document.querySelector(".btD").onclick= function(){
